@@ -7,18 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E66F91DB2A8FEBBC00B963C5 /* OptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E66F91DA2A8FEBBB00B963C5 /* OptionView.swift */; };
+		E66F91DF2A900EBB00B963C5 /* IconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E66F91DE2A900EBB00B963C5 /* IconView.swift */; };
+		E66F91E12A9013AF00B963C5 /* WallpaperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E66F91E02A9013AF00B963C5 /* WallpaperView.swift */; };
+		E66F91E32A9014B800B963C5 /* PhotoGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = E66F91E22A9014B800B963C5 /* PhotoGrid.swift */; };
+		E66F91E52A9015CF00B963C5 /* ContactsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E66F91E42A9015CF00B963C5 /* ContactsView.swift */; };
+		E66F91E72A90188B00B963C5 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E66F91E62A90188B00B963C5 /* MainView.swift */; };
+		E66F92C52A90252F00B963C5 /* Estée Lauder Fonts in Resources */ = {isa = PBXBuildFile; fileRef = E66F92C42A90252F00B963C5 /* Estée Lauder Fonts */; };
+		E66F92C62A9025E800B963C5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E698D4722A8FC7BE00CDFD67 /* ContentView.swift */; };
+		E66F92CF2A90497B00B963C5 /* ImagesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E66F92CE2A90497B00B963C5 /* ImagesView.swift */; };
+		E66F92D12A9059C300B963C5 /* TextAppear.swift in Sources */ = {isa = PBXBuildFile; fileRef = E66F92D02A9059C300B963C5 /* TextAppear.swift */; };
 		E698D4712A8FC7BE00CDFD67 /* ELChallenge2023App.swift in Sources */ = {isa = PBXBuildFile; fileRef = E698D4702A8FC7BE00CDFD67 /* ELChallenge2023App.swift */; };
-		E698D4732A8FC7BE00CDFD67 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E698D4722A8FC7BE00CDFD67 /* ContentView.swift */; };
 		E698D4752A8FC7C000CDFD67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E698D4742A8FC7C000CDFD67 /* Assets.xcassets */; };
 		E698D4782A8FC7C000CDFD67 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E698D4772A8FC7C000CDFD67 /* Preview Assets.xcassets */; };
+		E698D47F2A8FCABC00CDFD67 /* QuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E698D47E2A8FCABC00CDFD67 /* QuizView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E66F91DA2A8FEBBB00B963C5 /* OptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionView.swift; sourceTree = "<group>"; };
+		E66F91DE2A900EBB00B963C5 /* IconView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconView.swift; sourceTree = "<group>"; };
+		E66F91E02A9013AF00B963C5 /* WallpaperView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WallpaperView.swift; sourceTree = "<group>"; };
+		E66F91E22A9014B800B963C5 /* PhotoGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoGrid.swift; sourceTree = "<group>"; };
+		E66F91E42A9015CF00B963C5 /* ContactsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsView.swift; sourceTree = "<group>"; };
+		E66F91E62A90188B00B963C5 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		E66F92C42A90252F00B963C5 /* Estée Lauder Fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Estée Lauder Fonts"; sourceTree = "<group>"; };
+		E66F92C72A90272A00B963C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		E66F92CE2A90497B00B963C5 /* ImagesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesView.swift; sourceTree = "<group>"; };
+		E66F92D02A9059C300B963C5 /* TextAppear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextAppear.swift; sourceTree = "<group>"; };
 		E698D46D2A8FC7BE00CDFD67 /* ELChallenge2023.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ELChallenge2023.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E698D4702A8FC7BE00CDFD67 /* ELChallenge2023App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ELChallenge2023App.swift; sourceTree = "<group>"; };
 		E698D4722A8FC7BE00CDFD67 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E698D4742A8FC7C000CDFD67 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E698D4772A8FC7C000CDFD67 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E698D47E2A8FCABC00CDFD67 /* QuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +56,9 @@
 		E698D4642A8FC7BE00CDFD67 = {
 			isa = PBXGroup;
 			children = (
+				E66F92D02A9059C300B963C5 /* TextAppear.swift */,
+				E66F92CE2A90497B00B963C5 /* ImagesView.swift */,
+				E66F92C42A90252F00B963C5 /* Estée Lauder Fonts */,
 				E698D46F2A8FC7BE00CDFD67 /* ELChallenge2023 */,
 				E698D46E2A8FC7BE00CDFD67 /* Products */,
 			);
@@ -51,6 +75,14 @@
 		E698D46F2A8FC7BE00CDFD67 /* ELChallenge2023 */ = {
 			isa = PBXGroup;
 			children = (
+				E66F92C72A90272A00B963C5 /* Info.plist */,
+				E66F91E62A90188B00B963C5 /* MainView.swift */,
+				E66F91E42A9015CF00B963C5 /* ContactsView.swift */,
+				E698D47E2A8FCABC00CDFD67 /* QuizView.swift */,
+				E66F91DA2A8FEBBB00B963C5 /* OptionView.swift */,
+				E66F91E02A9013AF00B963C5 /* WallpaperView.swift */,
+				E66F91E22A9014B800B963C5 /* PhotoGrid.swift */,
+				E66F91DE2A900EBB00B963C5 /* IconView.swift */,
 				E698D4702A8FC7BE00CDFD67 /* ELChallenge2023App.swift */,
 				E698D4722A8FC7BE00CDFD67 /* ContentView.swift */,
 				E698D4742A8FC7C000CDFD67 /* Assets.xcassets */,
@@ -125,6 +157,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E66F92C52A90252F00B963C5 /* Estée Lauder Fonts in Resources */,
 				E698D4782A8FC7C000CDFD67 /* Preview Assets.xcassets in Resources */,
 				E698D4752A8FC7C000CDFD67 /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +170,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E698D4732A8FC7BE00CDFD67 /* ContentView.swift in Sources */,
+				E66F91E52A9015CF00B963C5 /* ContactsView.swift in Sources */,
+				E66F91E72A90188B00B963C5 /* MainView.swift in Sources */,
+				E66F91E32A9014B800B963C5 /* PhotoGrid.swift in Sources */,
+				E66F91E12A9013AF00B963C5 /* WallpaperView.swift in Sources */,
+				E66F92CF2A90497B00B963C5 /* ImagesView.swift in Sources */,
+				E66F92D12A9059C300B963C5 /* TextAppear.swift in Sources */,
+				E66F91DF2A900EBB00B963C5 /* IconView.swift in Sources */,
+				E66F92C62A9025E800B963C5 /* ContentView.swift in Sources */,
 				E698D4712A8FC7BE00CDFD67 /* ELChallenge2023App.swift in Sources */,
+				E698D47F2A8FCABC00CDFD67 /* QuizView.swift in Sources */,
+				E66F91DB2A8FEBBC00B963C5 /* OptionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +312,7 @@
 				DEVELOPMENT_TEAM = X44FR2N2M5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ELChallenge2023/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +342,7 @@
 				DEVELOPMENT_TEAM = X44FR2N2M5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ELChallenge2023/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
